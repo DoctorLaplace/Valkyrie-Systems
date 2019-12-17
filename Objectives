@@ -1,7 +1,8 @@
 Current Objective(s):
 
 1. Write main runtime system and determine architecture.
-
+>   1.001. Building Odin_Library, focusing on UI and making a lab environment in prvate.       <----- WE ARE HERE! <
+2. Write functions for easy neural network testing. Focus on experimenting with new neuron abilities and cluster types.
 
 General Objectives:
 
@@ -17,7 +18,8 @@ Theoretical Objectives:
 
 1. Work on a program that turns natural language into code.
 
-2. Work on a logic "patcher" that takes intents and compiles them into mathematical statements.
+2. Work on a logic "patcher" that takes intents and compiles them into mathematical statements, and then into equivalent neuron clusters.
+
 
 
 ==============================
