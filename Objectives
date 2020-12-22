@@ -1,7 +1,7 @@
 Current Objective(s):
 
 1. Write main runtime system and determine architecture.
->   1.001. Building Odin_Library, focusing on UI and making a lab environment in prvate.       <----- WE ARE HERE! <
+>   1.001. Building Odin_Library, focusing on UI and making a lab environment in prvate.
 2. Write functions for easy neural network testing. Focus on experimenting with new neuron abilities and cluster types.
 
 General Objectives:
